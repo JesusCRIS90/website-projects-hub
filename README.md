@@ -88,7 +88,7 @@ Each project evolves independently in its own repository.
 
 ## 👨‍💻 Author
 
-Created by **Jesus Risquez **
+Created by **Jesus Risquez**
 
 You can find more of my work in my portfolio and GitHub profile.
 
